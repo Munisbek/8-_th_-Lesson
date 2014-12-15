@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="resources/bootstrap/css/bootstrap.min.css">
+    <script src="resources/bootstrap/js/jquery.min.js"></script>
+    <script src="resources/bootstrap/js/bootstrap.min.js"></script>
+    <title>Hollywood</title>
+</head>
+<body style="background-color:  #c4e3f3">
+<div class="container">
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div class="container-fluid" style="background-color: #f2dede">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapse" data-toggle="collapse " data-target="#bs-example-navbar-collapse-1">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="Homework_2_a.html" class="navbar-brand">Los Angeles</a></li>
+                    <li><a href="Homework_2_b.html" class="navbar-brand">Hollywood</a></li>
+                    <li><a href="Homework_2_c.html" class="navbar-brand">San Fransisco</a></li>
+
+                </ul>
+                <form class="navbar-form navbar-right" role="search">
+                    <div class="form-group">
+                        <input type="text" placeholder="search" class="form-control">
+                    </div>
+                    <button class="btn btn-info btn-lg"><i>Search<i></button>
+                </form>
+            </div>
+    </nav>
+    <h1 class="text-center">Hollywood</h1>
+    <hr>
+    <div class="row">
+        <div class="col-md-6 pull-right" >
+            <div class="caption">
+            <p class="lead">Любопытным представляется тот факт, что, в отличие от подавляющего большинства американских городов, население центра которых заметно сокращается, центральная часть Лос-Анджелеса с 1950-х годов продолжала заселяться быстрыми темпами. «Маленькая Армения» является микрорайоном Голливуда. Название района происходит от большого количества американских армян, которые живут в нём, а также большого числа армянских магазинов и предприятий.</p>
+                </div>
+        </div>
+    <div class="col-md-6 pull-left">
+        <div class="text-left">
+        <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle btn-danger" type="button" id="dropdownMenu1" data-toggle="dropdown">
+                United States of America
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu">
+                <li role="presentation"><a role="menuitem" href="#">Alabama	Алабама	AL</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> Alaska	 Аляска</a></li>
+                <li role="presentation"><a role="menuitem" href="#">Arizona	 Аризона</a></li>
+                <li role="presentation"><a role="menuitem" href="#">   Arkansas 	Арканзас</a></li>
+                <li role="presentation"><a role="menuitem" href="#">     California Калифорния</a></li>
+                <li role="presentation"><a role="menuitem" href="#">     Colorado	 Колорадо</a></li>
+                <li role="presentation"><a role="menuitem" href="#">    Connecticut 	Коннектикут</a></li>
+                <li role="presentation"><a role="menuitem" href="#">   Delaware 	Делавер</a></li>
+                <li role="presentation"><a role="menuitem" href="#">    District of Columbia 	Округ Колумбия</a></li>
+                <li role="presentation"><a role="menuitem" href="#">    Florida	 лорида	</a></li>
+                <li role="presentation"><a role="menuitem" href="#">    Georgia	 Джорджия</a></li>
+                <li role="presentation"><a role="menuitem" href="#">    Hawaii	 Гавайи</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Idaho	 Айдахо</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Illinois 	Иллинойс</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Indiana 	Индиана</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Iowa 	Айова</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Kansas	Канзас</a></li>
+                <li role="presentation"><a role="menuitem" href="#">   Kentucky	Кентукки</a></li>
+                <li role="presentation"><a role="menuitem" href="#">   Louisiana	Луизиана</a></li>
+                <li role="presentation"><a role="menuitem" href="#">       Maine	Мейн</a></li>
+                <li role="presentation"><a role="menuitem" href="#">   Maryland	  Мэриленд</a></li>
+                <li role="presentation"><a role="menuitem" href="#">Massachusetts	Массачусетс</a></li>
+                <li role="presentation"><a role="menuitem" href="#">   Michigan	  Мичиган	</a></li>
+                <li role="presentation"><a role="menuitem" href="#">    Minnesota	Миннесота</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Mississippi	Миссисипи</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Missouri	Миссури</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Montana	Монтана</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> Nebraska	Небреска</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Nevada	Невада</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> New Hampshire	Нью-Гемпшир</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  New Jersey	Нью-Джерси</a></li>
+                <li role="presentation"><a role="menuitem" href="#">New Mexico	Нью-Мексико</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  New York	Нью-Йорк</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> North Carolina	Северная Каролина</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> North Dakota	Северная Дакота</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> Ohio	Огайо</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Oklahoma	Оклахома</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Oregon	Орегон</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Pennsylvania	Пенсильвания</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Rhode Island	Род-Айленд</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> South Carolina	Южная Каролина</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  South Dakota	Южная Дакота</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Tennessee	Теннеси</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Texas	Техас</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> Utah	Юта</a></li>
+                <li role="presentation"><a role="menuitem" href="#"> Vermont	Вермонт</a></li>
+                <li role="presentation"><a role="menuitem" href="#">Virginia	Вирджиния</a></li>
+                <li role="presentation"><a role="menuitem" href="#">  Washington	Вашингтон<li role="presentation"><a role="menuitem" href="#"> West Virginia	Западная Вирджиния</a></li><li role="presentation"><a role="menuitem" href="#"> Wisconsin	Висконсин</a></li><li role="presentation"><a role="menuitem" href="#">  Wyoming	</a></li>
+
+            </ul>
+        </div>
+    </div>
+        <img src="resources/images/11.jpg" width="520" height="360">
+    </div>
+        </div>
+<hr>
+    <a href="http://www.holidaym.ru"><h1 class="text-center">Image Gallery</h1></a>
+    <div class="text-center">
+        <img src="resources/images/12.jpg"width="215" height="123" class="img-rounded">
+        <img src="resources/images/13.jpg"width="215" height="123"class="img-rounded">
+        <img src="resources/images/14.jpg" width="215" height="123"class="img-rounded">
+        <img src="resources/images/15.jpg" width="215" height="123"class="img-rounded">
+    </div>
+
+        <hr>
+    <div class="text-right">
+        <button class="btn btn-link">Home</button>
+        <button class="btn btn-link">Browse Games</button>
+        <button class="btn btn-link">About Us</button>
+        <button class="btn btn-link">Contact Us</button>
+</div>
+    <h4>Hollywood(California) 2014.</h4>
+</div>
+</body>
+</html>
