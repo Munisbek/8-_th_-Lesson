@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" type="text/css" href="resources/bootstrap/css/bootstrap.min.css">
+    <script src="resources/bootstrap/js/jquery.min.js"></script>
+    <script src="resources/bootstrap/js/bootstrap.min.js"></script>
+    <meta charset="UTF-8">
+    <title>California</title>
+</head>
+<body style="background-color: #c4e3f3">
+<div class="container">
+    <hr>
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div class="container-fluid" style="background-color: #f2dede">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapse" data-toggle="collapse " data-target="#bs-example-navbar-collapse-1">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class=" nav navbar-nav">
+                    <li><a href="Homework_2_a.html" class="navbar-brand">Los Angeles</a></li>
+                    <li><a href="Homework_2_b.html" class="navbar-brand">Hollywood</a></li>
+                    <li><a href="Homework_2_c.html" class="navbar-brand">San Fransisco</a></li>
+
+                </ul>
+                <form class="navbar-form navbar-right" role="search">
+
+                    <div class="form-group">
+                        <input type="text" placeholder="search" class="form-control">
+                    </div>
+                    <button class="btn btn-info btn-lg"><i>Search<i></button>
+                </form>
+
+            </div>
+
+    </nav>
+    <div class="text-left">
+    <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle btn-danger" type="button" id="dropdownMenu1" data-toggle="dropdown">
+            United States of America
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+                <li role="presentation"><a role="menuitem" href="#">Alabama	Алабама	AL</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> Alaska	 Аляска</a></li>
+            <li role="presentation"><a role="menuitem" href="#">Arizona	 Аризона</a></li>
+            <li role="presentation"><a role="menuitem" href="#">   Arkansas 	Арканзас</a></li>
+            <li role="presentation"><a role="menuitem" href="#">     California Калифорния</a></li>
+            <li role="presentation"><a role="menuitem" href="#">     Colorado	 Колорадо</a></li>
+            <li role="presentation"><a role="menuitem" href="#">    Connecticut 	Коннектикут</a></li>
+            <li role="presentation"><a role="menuitem" href="#">   Delaware 	Делавер</a></li>
+            <li role="presentation"><a role="menuitem" href="#">    District of Columbia 	Округ Колумбия</a></li>
+            <li role="presentation"><a role="menuitem" href="#">    Florida	 лорида	</a></li>
+            <li role="presentation"><a role="menuitem" href="#">    Georgia	 Джорджия</a></li>
+            <li role="presentation"><a role="menuitem" href="#">    Hawaii	 Гавайи</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Idaho	 Айдахо</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Illinois 	Иллинойс</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Indiana 	Индиана</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Iowa 	Айова</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Kansas	Канзас</a></li>
+            <li role="presentation"><a role="menuitem" href="#">   Kentucky	Кентукки</a></li>
+            <li role="presentation"><a role="menuitem" href="#">   Louisiana	Луизиана</a></li>
+            <li role="presentation"><a role="menuitem" href="#">       Maine	Мейн</a></li>
+            <li role="presentation"><a role="menuitem" href="#">   Maryland	  Мэриленд</a></li>
+            <li role="presentation"><a role="menuitem" href="#">Massachusetts	Массачусетс</a></li>
+            <li role="presentation"><a role="menuitem" href="#">   Michigan	  Мичиган	</a></li>
+            <li role="presentation"><a role="menuitem" href="#">    Minnesota	Миннесота</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Mississippi	Миссисипи</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Missouri	Миссури</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Montana	Монтана</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> Nebraska	Небреска</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Nevada	Невада</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> New Hampshire	Нью-Гемпшир</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  New Jersey	Нью-Джерси</a></li>
+            <li role="presentation"><a role="menuitem" href="#">New Mexico	Нью-Мексико</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  New York	Нью-Йорк</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> North Carolina	Северная Каролина</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> North Dakota	Северная Дакота</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> Ohio	Огайо</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Oklahoma	Оклахома</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Oregon	Орегон</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Pennsylvania	Пенсильвания</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Rhode Island	Род-Айленд</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> South Carolina	Южная Каролина</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  South Dakota	Южная Дакота</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Tennessee	Теннеси</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Texas	Техас</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> Utah	Юта</a></li>
+            <li role="presentation"><a role="menuitem" href="#"> Vermont	Вермонт</a></li>
+            <li role="presentation"><a role="menuitem" href="#">Virginia	Вирджиния</a></li>
+            <li role="presentation"><a role="menuitem" href="#">  Washington	Вашингтон<li role="presentation"><a role="menuitem" href="#"> West Virginia	Западная Вирджиния</a></li><li role="presentation"><a role="menuitem" href="#"> Wisconsin	Висконсин</a></li><li role="presentation"><a role="menuitem" href="#">  Wyoming	</a></li>
+
+        </ul>
+    </div>
+</div>
+
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="img-thumbnail">
+               <a href="Homework_2_b.html"> <h2>California</h2></a>
+                <img src="resources/images/8.jpg"width="350" height="200">
+                <div class="caption">
+                    <h2>Los Angeles <span class="glyphicon-envelope"></span>(902300)</h2>
+                    <p>Лос-А́нджелес также известен как L.A. и City of Angels — Город Ангелов — город в США на юге штата Калифорния, находящийся на берегу Тихого океана. Крупнейший по численности населения в штате и второй — в стране (на 1 июля 2009 года — 3 831 868 жителей). </p>
+                </div>
+                <button class="btn btn-info btn-group-justified">Video</button>
+                <br>
+                <br>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <div class="col-md-3">
+                <img src="resources/images/9.png"width="155"height="155">
+                <img src="resources/images/9.png"width="155"height="155">
+                <img src="resources/images/9.png"width="155"height="155">
+            </div>
+            <div class="col-md-3">
+                <img src="resources/images/10.png"width="155"height="155">
+                <img src="resources/images/10.png"width="155"height="155">
+                <img src="resources/images/10.png"width="155"height="155">
+            </div>
+
+
+            <div class="col-md-3">
+                <img src="resources/images/9.png"width="155"height="155">
+                <img src="resources/images/9.png"width="155"height="155">
+                <img src="resources/images/9.png"width="155"height="155">
+            </div>
+            <div class="col-md-3">
+                <img src="resources/images/10.png"width="155"height="155">
+                <img src="resources/images/10.png"width="155"height="155">
+                <img src="resources/images/10.png"width="155"height="155">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+
+        </div>
+
+        <div class="col-md-8">
+            <div class="col-md-6">
+                <div class="img-thumbnail">
+                    <div class="caption">
+                        <h3>San Fransisco</h3>
+                        <p>Город является административным центром одноимённого округа, а также центром Большого Лос-Анджелеса — агломерации с населением выше 17 млн человек. </p>
+                        <button class="btn  btn-info">Photos</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="img-thumbnail">
+                    <div class="caption">
+                        <h3>San Fransisco</h3>
+                        <p>Город является административным центром одноимённого округа, а также центром Большого Лос-Анджелеса — агломерации с населением выше 17 млн человек. </p>
+                        <button class="btn  btn-info ">Photos</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <hr>
+    <div class="text-right">
+        <button class="btn btn-link btn-lg">Home</button>
+        <button class="btn btn-link btn-lg">Downtown</button>
+        <button class="btn btn-link btn-lg">Music</button>
+    </div>
+
+    <mark>California (San Fransisco).2014</mark>
+
+</div>
+</body>
+</html>
